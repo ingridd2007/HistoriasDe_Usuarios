@@ -2,3 +2,4 @@
 Integrantes:
 - Torres Ingrid
 - Teo Rojas
+- Flores Bautista
