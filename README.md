@@ -1,5 +1,5 @@
 # HistoriasDe_Usuarios
 Integrantes:
 - Torres Ingrid
-- Teo Rojas
+- Rojas Teo
 - Flores Bautista
