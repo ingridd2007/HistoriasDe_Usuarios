@@ -11,7 +11,7 @@ Integrantes:
 
 ## Historias de Usuario – Sistema de Gestión Comercial
 
-1* Registrar Venta
+1. Registrar Venta
 Historia
 
 COMO vendedor
