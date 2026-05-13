@@ -5,6 +5,8 @@ Integrantes:
 - Flores Bautista
 - Juarez Joaquin
 
+# Materia: Introducción al análisis sistémico - Alfabetización digital
+
 Historias de Usuario – Sistema de Gestión Comercial
 
 Historia de Usuario 1 – Registrar Venta
