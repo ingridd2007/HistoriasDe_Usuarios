@@ -11,7 +11,17 @@ Integrantes:
 
 ## Historias de Usuario – Sistema de Gestión Comercial
 
-- 1 Registrar Venta
+## Funcionalidades
+Registrar Venta
+Registrar Compra
+Administrar Stock 
+Generar Factura
+Calcular subtotal
+Calcular Impuesto 
+Calcular total
+Generar Reportes
+
+### Registrar Venta
 Historia
 
 COMO vendedor
