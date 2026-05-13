@@ -5,7 +5,9 @@ Integrantes:
 - Flores Bautista
 - Juarez Joaquin
 
-# Materia: Introducción al análisis sistémico - Alfabetización digital
+## Materia: Introducción al análisis sistémico - Alfabetización digital ## 
+
+Profesor: Narciso Perez
 
 Historias de Usuario – Sistema de Gestión Comercial
 
