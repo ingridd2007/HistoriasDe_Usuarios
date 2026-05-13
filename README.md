@@ -36,7 +36,7 @@ DADO que la venta fue confirmada
 CUANDO se genere la factura
 ENTONCES el stock deberá actualizarse automáticamente.
 
-Historia de Usuario 2 – Registrar Compra
+### Registrar Compra
 Historia
 
 COMO encargado de compras
@@ -51,7 +51,7 @@ DADO que una compra fue registrada
 CUANDO el proceso finalice
 ENTONCES el stock de los productos deberá incrementarse automáticamente.
 
-Historia de Usuario 3 – Administrar Stock
+### Administrar Stock
 Historia
 
 COMO administrador
@@ -66,7 +66,7 @@ DADO que el stock llegue al mínimo establecido
 CUANDO el sistema detecte poca disponibilidad
 ENTONCES deberá emitir una alerta de reposición.
 
-Historia de Usuario 4 – Generar Factura
+### Generar Factura
 Historia
 
 COMO vendedor
@@ -81,7 +81,7 @@ DADO que exista una factura generada
 CUANDO el usuario la consulte
 ENTONCES el sistema deberá mostrar productos, precios, impuestos y total final.
 
-Historia de Usuario 5 – Calcular Subtotal
+### Calcular Subtotal
 Historia
 
 COMO sistema
@@ -93,7 +93,7 @@ DADO que existan productos cargados en la venta
 CUANDO se multiplique cantidad por precio unitario
 ENTONCES el sistema deberá calcular el subtotal correctamente.
 
-Historia de Usuario 6 – Calcular Impuestos
+### Calcular Impuestos
 Historia
 
 COMO sistema
@@ -105,7 +105,7 @@ DADO que exista un subtotal calculado
 CUANDO se aplique el porcentaje de impuestos
 ENTONCES el sistema deberá mostrar el valor del impuesto calculado.
 
-Historia de Usuario 7 – Calcular Total
+### Calcular Total
 Historia
 
 COMO sistema
