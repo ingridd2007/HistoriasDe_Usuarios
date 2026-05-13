@@ -9,7 +9,7 @@ Integrantes:
 
 ## Profesor: Narciso Perez
 
-Historias de Usuario – Sistema de Gestión Comercial
+## Historias de Usuario – Sistema de Gestión Comercial
 
 Historia de Usuario 1 – Registrar Venta
 Historia
